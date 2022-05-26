@@ -1,4 +1,4 @@
-# BMI Calculator 💪
+# 💪 BMI Calculator 💪
 ![This is an image](lib/pics/Screen Shot 2022-05-25 at 7.13.18 PM.png)
 
 ## Our Goal
