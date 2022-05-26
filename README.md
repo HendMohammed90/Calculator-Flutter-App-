@@ -1,5 +1,5 @@
 # 💪 BMI Calculator 💪
-![This is an image](https://github.com/HendMohammed90/Calculator-Flutter-App-/lib/pics/Screen Shot 2022-05-25 at 7.13.18 PM.png)
+![This is an image](https://github.com/HendMohammed90/Calculator-Flutter-App-/blob/master/lib/pics/Screen%20Shot%202022-05-25%20at%207.13.18%20PM.png)
 
 ## Our Goal
 
